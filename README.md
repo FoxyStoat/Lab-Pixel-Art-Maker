@@ -9,7 +9,7 @@ The user should be able to:
 Primary task is to implement the makeGrid() fucntion, that dynamically creates a grid that the user can interact with.
 
 Screenshot of my finished work:
-![Pixel Art Maker](Screenshot 2018-01-26 20.43.png?raw=true "Finished Project") 
+![Pixel Art Maker](Screenshot 2018-01-26 20.43.16.png?raw=true "Finished Project") 
 
 
 
