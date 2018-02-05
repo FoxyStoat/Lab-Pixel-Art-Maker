@@ -5,7 +5,15 @@ $(function() {
 	function makeGrid() {
 	 	//Select size input -- get values from choose grid size form
 	 	const gridHeight = $('#input_height').val();
+	 		if(gridHeight > 100) {
+	 			alert('please keep grid height 100 or less');
+    			gridHeight = 100;
+			}
 	 	const gridWidth = $('#input_width').val();
+	 		if(gridWidth > 100) {
+	 			alert('please keep grid width 100 or less');
+    			gridWidth = 100;
+			}
 		//access design canvas table
 		const table = $('#pixel_canvas');
 
