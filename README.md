@@ -8,7 +8,7 @@ The user should be able to:
 
 Primary task is to implement the makeGrid() fucntion, that dynamically creates a grid that the user can interact with.
 
-![screenshot img](Screenshot.png "Screenshot of Lab-Pixel-Art-Maker") 
+![screenshot img](screenshot.png "Screenshot of Lab-Pixel-Art-Maker") 
 
 
 
