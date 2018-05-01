@@ -12,5 +12,7 @@ for the google Udacity fewd-fend-challenge
 
 Primary task is to implement the makeGrid() fucntion, that dynamically creates a grid that the user can interact with.
 
+![screenshot img](screenshot.png "Screenshot of Lab-Pixel-Art-Maker") 
+
 
 
