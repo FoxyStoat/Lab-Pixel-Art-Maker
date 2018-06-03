@@ -64,8 +64,8 @@ input[type=submit] {
 
 .unsplash-photo-credit {
 position: absolute;
-top: 0;
-right: 40px;
+bottom: 0;
+left: 20px;
 color: #fef;
 padding: 10px;
 font-size:  0.625rem;
